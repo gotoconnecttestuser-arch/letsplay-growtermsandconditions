@@ -5,7 +5,9 @@ Effective Date: 12/8/2025
 These Recurring Message Terms and Conditions ("Terms") govern your participation in and use of SMS/text message services ("Messaging Service") provided by Let’s Play N Grow (“we,” “us,” “our”). 
 By opting in to receive customer care text messages from Let’s Play N Grow, you agree to these Terms as well as our Privacy Policy.
 
-Message Types
+Message Types and Consent
+
+By providing your phone number, you consent to receive customer care messages from Let's Play N Grow. Message frequency may vary. On average, you can expect to receive 1-2 messages per month. Message and data rates may apply. For more information on how your data is handled, please review our privacy policy at https://github.com/gotoconnecttestuser-arch/Letsplay-growprivacypolicy.
 
 By opting in to Let’s Play N Grow’s SMS Messaging Service, you consent to receive recurring customer care messages. These messages include, but are not limited to:
 
@@ -13,8 +15,6 @@ Session appointment notifications and schedule changes
 Late pick-up alerts
 Updates about your child’s day or participation
 Customer support or general service announcements
-
-By providing your phone number, you consent to receive recurring customer care messages from Let's Play N Grow. Message frequency may vary. On average, you may receive 1-2 messages per month. Message and data rates may apply.
 
 For assistance, text HELP to the number from which you received messages.
 
