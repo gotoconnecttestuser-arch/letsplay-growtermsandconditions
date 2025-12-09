@@ -3,8 +3,10 @@ Recurring Message Terms and Conditions
 Effective Date: 12/8/2025
 
 These Recurring Message Terms and Conditions ("Terms") govern your participation in and use of SMS/text message services ("Messaging Service") provided by Let’s Play N Grow (“we,” “us,” “our”). 
-By opting in to receive text messages from Let’s Play N Grow, you agree to these Terms as well as our Privacy Policy .
+By opting in to receive text messages from Let’s Play N Grow, you agree to these Terms as well as our Privacy Policy.
+
 Message Types
+
 By providing your phone number, you consent to receive recurring customer care messages from Let's Play N Grow. Message frequency may vary. On average, you may receive 1-2 messages per month. Message and data rates may apply.
 
 For assistance, text HELP to the number from which you received messages.
