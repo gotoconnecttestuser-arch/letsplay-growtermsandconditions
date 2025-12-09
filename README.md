@@ -7,6 +7,13 @@ By opting in to receive customer care text messages from Let’s Play N Grow, yo
 
 Message Types
 
+By opting in to Let’s Play N Grow’s SMS Messaging Service, you consent to receive recurring customer care messages. These messages include, but are not limited to:
+
+Session appointment notifications and schedule changes
+Late pick-up alerts
+Updates about your child’s day or participation
+Customer support or general service announcements
+
 By providing your phone number, you consent to receive recurring customer care messages from Let's Play N Grow. Message frequency may vary. On average, you may receive 1-2 messages per month. Message and data rates may apply.
 
 For assistance, text HELP to the number from which you received messages.
