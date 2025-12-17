@@ -11,10 +11,14 @@ By providing your phone number, you consent to receive customer care messages fr
 
 By opting in to Let’s Play N Grow’s SMS Messaging Service, you consent to receive recurring customer care messages. These messages include, but are not limited to:
 
-Session appointment notifications and schedule changes
-Late pick-up alerts
-Updates about your child’s day or participation
-Customer support or general service announcements
+Type of Messages:
+Let’s Play N Grow uses text messages solely to communicate:
+
+Appointment reminders
+Session updates
+Important notifications (such as late arrivals or changes in pick-up or drop-off times)
+Regular updates on your child’s daily activities (such as participation in learning activities, meals, or social interactions)
+We do not send marketing or promotional messages via SMS. `
 
 For assistance, text HELP to the number from which you received messages.
 
