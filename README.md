@@ -9,7 +9,11 @@ Message Types and Consent
 
 By providing your phone number, you consent to receive customer care messages from Let's Play N Grow. Message frequency may vary. On average, you can expect to receive 1-2 messages per month. Message and data rates may apply. For more information on how your data is handled, please review our privacy policy at https://github.com/gotoconnecttestuser-arch/Letsplay-growprivacypolicy.
 
-By opting in to Let’s Play N Grow’s SMS Messaging Service, you consent to receive recurring customer care messages. These messages include, but are not limited to:
+By opting in to receive customer care messages from Let's Play N Grow, you agree to the following terms and conditions:
+
+Message frequency may vary. On average, you can expect to receive 1-2 messages per month.
+For help or more information, reply HELP to any message or contact our support team directly.
+For details on how your information is handled, please review our privacy policy at https://github.com/gotoconnecttestuser-arch/Letsplay-growprivacypolicy
 
 Type of Messages:
 Let’s Play N Grow uses text messages solely to communicate:
@@ -20,10 +24,6 @@ Session updates,
 Important notifications (such as late arrivals or changes in pick-up or drop-off times),
 Regular updates on your child’s daily activities (such as participation in learning activities, meals, or social interactions),
 We do not send marketing or promotional messages via SMS. `
-
-For assistance, text HELP to the number from which you received messages.
-
-For more information on how your data is handled, please review our privacy policy at https://github.com/gotoconnecttestuser-arch/Letsplay-growprivacypolicy.
 
 1. Program Description
 Let’s Play N Grow offers a Messaging Service that provides parents and guardians with customer care messages, including important notifications if a parent may be running late, session time changes, updates about your child’s day, and other relevant information related to your participation in our programs.
