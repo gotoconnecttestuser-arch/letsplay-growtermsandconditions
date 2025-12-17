@@ -14,11 +14,11 @@ By opting in to Let’s Play N Grow’s SMS Messaging Service, you consent to re
 Type of Messages:
 Let’s Play N Grow uses text messages solely to communicate:
 
-customer care messages
-Appointment reminders
-Session updates
-Important notifications (such as late arrivals or changes in pick-up or drop-off times)
-Regular updates on your child’s daily activities (such as participation in learning activities, meals, or social interactions)
+customer care messages,
+Appointment reminders,
+Session updates,
+Important notifications (such as late arrivals or changes in pick-up or drop-off times),
+Regular updates on your child’s daily activities (such as participation in learning activities, meals, or social interactions),
 We do not send marketing or promotional messages via SMS. `
 
 For assistance, text HELP to the number from which you received messages.
